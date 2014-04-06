@@ -20,3 +20,13 @@
     margin-right: 20px;
     float: left;
 }
+a.thumbnail:hover {
+    cursor: pointer;
+}
+#screenshot.modal {
+    width: 80%;
+    margin-left: -40%;
+}
+#screenshot .modal-body {
+    max-height: 1000px;
+}
