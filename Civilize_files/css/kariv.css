@@ -1,0 +1,22 @@
+#logo {
+    position: absolute;
+    left: 10px;
+    top: 20px;
+}
+#header {
+    background: url('../home-page-backgound.png');
+    -webkit-background-size: cover; /* For WebKit*/
+    -moz-background-size: cover;    /* Mozilla*/
+    -o-background-size: cover;      /* Opera*/
+    background-size: cover;         /* Generic*/
+}
+#landing>.container>div>div {
+    background: white;
+    border: solid 10px #43373B;
+    padding: 30px;
+}
+#landing .logos img{
+    max-height: 50px;
+    margin-right: 20px;
+    float: left;
+}
